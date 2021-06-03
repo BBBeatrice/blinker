@@ -1,0 +1,14 @@
+.*.swp
+.*.swo
+*.o
+*.out
+*.a
+*.map
+*.d
+*.bc
+*.raw.bc
+*.s
+*.S
+*.dot
+
+Makefile.env
